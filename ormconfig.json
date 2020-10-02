@@ -1,9 +1,9 @@
 {
    "type": "mysql",
-   "host": "temp",
+   "host": "localhost",
    "port": 3306,
-   "username": "kamal",
-   "password": "kR@3077182",
+   "username": "username",
+   "password": "password",
    "database": "test",
    "synchronize": true,
    "logging": false,
